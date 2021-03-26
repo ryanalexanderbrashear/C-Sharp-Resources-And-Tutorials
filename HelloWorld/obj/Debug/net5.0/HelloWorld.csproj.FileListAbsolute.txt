@@ -1,0 +1,15 @@
+/Users/alex/Desktop/Blazor-C#-Tutorials/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/alex/Desktop/Blazor-C#-Tutorials/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/alex/Desktop/Blazor-C#-Tutorials/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/alex/Desktop/Blazor-C#-Tutorials/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/alex/Desktop/Blazor-C#-Tutorials/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/Users/alex/Desktop/Blazor-C#-Tutorials/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/alex/Desktop/Blazor-C#-Tutorials/HelloWorld/obj/Debug/net5.0/HelloWorld.csprojAssemblyReference.cache
+/Users/alex/Desktop/Blazor-C#-Tutorials/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/Blazor-C#-Tutorials/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/alex/Desktop/Blazor-C#-Tutorials/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/alex/Desktop/Blazor-C#-Tutorials/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/Blazor-C#-Tutorials/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/alex/Desktop/Blazor-C#-Tutorials/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/Users/alex/Desktop/Blazor-C#-Tutorials/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/alex/Desktop/Blazor-C#-Tutorials/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
