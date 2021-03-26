@@ -1,0 +1,15 @@
+/Users/alex/Desktop/C-Sharp-Tutorials/Variables/obj/Debug/net5.0/Variables.csprojAssemblyReference.cache
+/Users/alex/Desktop/C-Sharp-Tutorials/Variables/obj/Debug/net5.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/C-Sharp-Tutorials/Variables/obj/Debug/net5.0/Variables.AssemblyInfoInputs.cache
+/Users/alex/Desktop/C-Sharp-Tutorials/Variables/obj/Debug/net5.0/Variables.AssemblyInfo.cs
+/Users/alex/Desktop/C-Sharp-Tutorials/Variables/obj/Debug/net5.0/Variables.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/C-Sharp-Tutorials/Variables/bin/Debug/net5.0/Variables.deps.json
+/Users/alex/Desktop/C-Sharp-Tutorials/Variables/bin/Debug/net5.0/Variables.runtimeconfig.json
+/Users/alex/Desktop/C-Sharp-Tutorials/Variables/bin/Debug/net5.0/Variables.runtimeconfig.dev.json
+/Users/alex/Desktop/C-Sharp-Tutorials/Variables/bin/Debug/net5.0/Variables.dll
+/Users/alex/Desktop/C-Sharp-Tutorials/Variables/bin/Debug/net5.0/ref/Variables.dll
+/Users/alex/Desktop/C-Sharp-Tutorials/Variables/bin/Debug/net5.0/Variables.pdb
+/Users/alex/Desktop/C-Sharp-Tutorials/Variables/obj/Debug/net5.0/Variables.dll
+/Users/alex/Desktop/C-Sharp-Tutorials/Variables/obj/Debug/net5.0/ref/Variables.dll
+/Users/alex/Desktop/C-Sharp-Tutorials/Variables/obj/Debug/net5.0/Variables.pdb
+/Users/alex/Desktop/C-Sharp-Tutorials/Variables/obj/Debug/net5.0/Variables.genruntimeconfig.cache
